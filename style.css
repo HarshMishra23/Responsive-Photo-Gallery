@@ -74,6 +74,7 @@ header span a{
     
 }
 
+
 #beautiful-container{
     text-align: center;
 }
@@ -93,4 +94,24 @@ header span a{
     width: 180px;
     height: 140px;
    
+}
+
+#cool-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#cool-container img{
+    width: 180px;
+    height: 140px;
+}
+
+#aweasome-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#aweasome-container img{
+    width: 180px;
+    height: 140px;
 }
