@@ -33,6 +33,10 @@ header span a{
    text-decoration: none;
 }
 
+.search-bar{
+    width: 200px;
+}
+
 .captions{
     text-align: center;
     
@@ -68,4 +72,25 @@ header span a{
     border: 1px solid blue;
     border-radius: 35px;
     
+}
+
+#beautiful-container{
+    text-align: center;
+}
+
+#beautiful-container img{
+    width: 180px;
+    height: 140px;
+   
+}
+
+#creative-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#creative-container img{
+    width: 180px;
+    height: 140px;
+   
 }
