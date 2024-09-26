@@ -43,6 +43,12 @@ https://elegant-cranachan-3ecf21.netlify.app/
 ## Screenshots
 ![alt](./image/image.png)
 ![alt](./image/image%20copy.png)
+![alt](./image/image%20copy%202.png)
+![alt](./image/image%20copy%203.png)
+![alt](./image/image%20copy%204.png)
+![alt](./image/image%20copy%205.png)
+![alt](./image/image%20copy%206.png)
+
 
 
 ## 🤝 Contributing
